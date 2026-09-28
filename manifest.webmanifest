@@ -1,0 +1,17 @@
+{
+  "name": "Inklish — học tiếng Anh bằng Apple Pencil",
+  "short_name": "Inklish",
+  "description": "Lộ trình A0 đến C1 cho người Việt, viết tay bằng Apple Pencil trên iPad.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E7ECEF",
+  "theme_color": "#E7ECEF",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
